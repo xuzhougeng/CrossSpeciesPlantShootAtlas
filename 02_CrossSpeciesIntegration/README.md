@@ -54,3 +54,4 @@ The SAMap/SATURN pipeline is an exploratory analytical process that supports mul
 - data/pep/sp2.pep
 
 
+Meanwhile, we assume that there is one sample from sp2, with the batch information recorded using orig.ident.

@@ -3,5 +3,6 @@
 
 * **SAMap\_prepare.ipynb**: Data preprocessing
 * **SAMap\_integration.ipynb**: Cross-species integration
-* **SAMap\_post\_analysis.ipynb**: Post-integration analysis
+
+For more analysis please read https://github.com/atarashansky/SAMap/blob/main/SAMap_vignette.ipynb
 

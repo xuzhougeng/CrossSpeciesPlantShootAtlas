@@ -28,3 +28,8 @@ SATURN enables integration of single-cell data across species by leveraging prot
    - Perform dimensionality reduction (PCA, UMAP)
    - Analyze cell clusters with Leiden algorithm
    - Visualize results by species and cell types
+
+## Note
+
+1. The pipeline requires a GPU with approximately 60GB of VRAM
+2. Create a conda environment named SATURN and configure it according to the official documentation

@@ -1,14 +1,14 @@
 
-
-TF_prediction.sh is used for de novo annotation of transcription factors across different species.
-
 ## Integration
 
 The notebook in integration follows the [SCGLUE tutorial](https://scglue.readthedocs.io/en/latest/) to perform joint analysis of scATAC-seq and scRNA-seq data, along with regulatory inference.
 This process generates `gene2peaks.links` and `gene2peaks.bedpe` files as outputs.
 
 
-# Resources
+## Resources
+
+TF_prediction.sh is used for de novo annotation of transcription factors across different species.
+
 
 gene2symbol.txt : TF geneid and its symbol
 

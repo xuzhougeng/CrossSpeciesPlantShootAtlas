@@ -11,11 +11,11 @@ CrossSpeciesPlantShootAtlas/
 
 We develop a  pipeline [optDNTRA](https://github.com/zywu2002/optDNTRA) for high quality transcriptome.
 
-[](./images/optDNTRA.png)
+[optDNTRA](./images/optDNTRA.png)
 
 We have developed an automated cell type annotation workflow, which you can access and use on the website <https://shoot.plantcellatlas.com/#/annotate>
 
-[](./images/annotation.png)
+[annotation pipeline](./images/annotation.png)
 
 If you use the current code in your research, please cite it accordingly.
 
